@@ -1,0 +1,8 @@
+.terraform/
+*.zip
+*.tar.gz
+venv/
+__pycache__/
+*.pyc
+.env
+
